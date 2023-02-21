@@ -1,0 +1,5 @@
+### 验证码
+POST {{checkcode_host}}/checkcode/pic
+
+### 校验
+POST {{checkcode_host}}/checkcode/check
